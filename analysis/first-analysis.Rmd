@@ -1,0 +1,16 @@
+---
+title: "first-analysis"
+author: "lakeseafly"
+date: "2020-04-08"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+
+getwd()
+```
+
